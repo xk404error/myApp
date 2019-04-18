@@ -28,7 +28,7 @@
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
-        <table tableName="student_gradle" domainObjectName="studentGradle">
+        <table tableName="student_gradle" domainObjectName="StudentGradle">
             <!--enableCountByExample="false"
                            enableUpdateByExample="false"
                            enableDeleteByExample="false"
