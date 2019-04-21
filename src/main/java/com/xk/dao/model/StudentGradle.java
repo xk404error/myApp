@@ -1,4 +1,4 @@
-package com.xk.dao;
+package com.xk.dao.model;
 
 public class StudentGradle {
     private Integer id;

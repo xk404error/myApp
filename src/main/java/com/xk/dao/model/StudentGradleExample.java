@@ -1,4 +1,4 @@
-package com.xk.dao;
+package com.xk.dao.model;
 
 import java.util.ArrayList;
 import java.util.List;
